@@ -1,19 +1,19 @@
-## Welcome to GitHub Pages
+## 欢迎来到我的 GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/EnochMHforever/EnochLiu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+你可以在我的github里了解我的学习过程和学习经验 [editor on GitHub](https://github.com/EnochMHforever)。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+我的提交的学习内容都将会提交在网络里面, GitHub Pages will run [Jekyll](https://jekyllrb.com/) 
 
-### Markdown
+### machine learner
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+我的仓库内容
 
-# Header 1
-## Header 2
-### Header 3
+## 1.个人日常学习经验分享
+## 2.库分享
+## 3.问题分享
 
 - Bulleted
 - List
