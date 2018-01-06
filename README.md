@@ -4,6 +4,9 @@
 
 我的提交的学习内容都将会提交在网络里面, GitHub Pages will run [Jekyll](https://jekyllrb.com/) 
 
+
+[clickhere](https://github.com/EnochMHforever/EnochLiu.github.io/blob/master/test.md)
+
 ### machine learner
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -11,9 +14,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 我的仓库内容
 
-## 1.个人日常学习经验分享
+# 1.个人日常学习经验分享
 ## 2.库分享
-## 3.问题分享
+### 3.问题分享
+
+
+[clickhere](https://github.com/EnochMHforever/EnochLiu.github.io/blob/master/test.md)
 
 - Bulleted
 - List
