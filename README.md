@@ -19,8 +19,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ### 3.问题分享
 
 
-[clickhere](https://github.com/EnochMHforever/EnochLiu.github.io/blob/master/test.md)
-
 - Bulleted
 - List
 
